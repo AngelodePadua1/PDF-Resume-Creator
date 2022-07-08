@@ -1,0 +1,13 @@
+{
+  "name": "Angelo Miguel N. de Padua",
+  "label": "Software Engineer",
+  "email": "angelosenpai3@gmail.com",
+  "phone": 9150862209,
+  "location": {
+    "address": "Malagasang 1-B, Woodlane Subdivision, Phase B, Blk 3 Lt 12",
+    "city": "Imus",
+    "province": "Cavite",
+    "countryCode": "Philippines",
+    "postalCode": 4104
+  }
+}
